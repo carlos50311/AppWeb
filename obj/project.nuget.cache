@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eb7maxJ1530=",
+  "success": true,
+  "projectFilePath": "/home/carlos/Documentos/AppWeb/AppWeb.csproj",
+  "expectedPackageFiles": [
+    "/home/carlos/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0-rc.1.25451.107/microsoft.aspnetcore.app.internal.assets.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}
