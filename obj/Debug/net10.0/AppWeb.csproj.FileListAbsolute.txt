@@ -83,3 +83,4 @@
 /home/carlos/Documentos/AppWeb/obj/Debug/net10.0/AppWeb.pdb
 /home/carlos/Documentos/AppWeb/obj/Debug/net10.0/AppWeb.genruntimeconfig.cache
 /home/carlos/Documentos/AppWeb/obj/Debug/net10.0/ref/AppWeb.dll
+/home/carlos/Documentos/AppWeb/obj/Debug/net10.0/AppWeb.sourcelink.json

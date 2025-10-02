@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AppWeb
+build_property.ProjectDir = /home/carlos/Documentos/AppWeb/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
